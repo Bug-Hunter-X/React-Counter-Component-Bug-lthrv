@@ -1,0 +1,1 @@
+This React component uses the `useState` hook to manage a counter. The initial state is 0. The `increment` function adds 1 to the counter, but the `decrement` function subtracts 2 instead of 1, leading to unexpected behavior.
